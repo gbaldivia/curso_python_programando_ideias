@@ -1,8 +1,8 @@
-#Python
+# Python
 
 Arquivos referente ao curso Programando Idéias, distribuído pela Udemy.
 
-Conteúdo abordado no curso:
+## Conteúdo abordado no curso:
 * Entrada e saída de dados
 * Variáveis e tipos de dados
 * Operações matemáticas
