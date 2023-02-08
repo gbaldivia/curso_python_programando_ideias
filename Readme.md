@@ -1,6 +1,6 @@
 #Python
 
-Arquivos referente ao curso Programando Idéias, distribuído pelo Udemy.
+Arquivos referente ao curso Programando Idéias, distribuído pela Udemy.
 
 Conteúdo abordado no curso:
 * Entrada e saída de dados
